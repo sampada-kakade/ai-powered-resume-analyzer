@@ -2,7 +2,7 @@
 
 An intelligent JavaFX application that analyzes resumes against job requirements and provides insights such as keyword matches, missing skills, and recommendations. Includes export options to **CSV** and **PDF** with a professional layout.
 
----
+-------
 
 ## 🚀 Features
 - Upload resumes (`.txt` or `.pdf`)
