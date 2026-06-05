@@ -1,3 +1,30 @@
+# AI Powered Resume Analyzer
+
+An intelligent JavaFX application that analyzes resumes against job requirements and provides insights such as keyword matches, missing skills, and recommendations. Includes export options to **CSV** and **PDF** with a professional layout.
+
+---
+
+## 🚀 Features
+- Upload resumes (`.txt` or `.pdf`)
+- Run AI‑powered analysis
+- Export results to **CSV** and **PDF**
+- PDF includes:
+  - Header with app name
+  - Candidate name
+  - Overall match score
+  - Keyword table (Keyword | Found | Suggestion)
+  - Recommendations section
+
+---
+
+## 🛠️ Build & Run
+
+### Build the app module
+```bash
+mvn -pl app -DskipTests package
+
+
+----
 # ResumeAnalyzer
 
 Simple Java CLI and JavaFX GUI tool to analyze resumes (TXT/PDF) against a set of keywords, provide feedback, and store results in MySQL.
@@ -62,7 +89,8 @@ docker run --rm -p 8080:8080 resumeanalyzer:latest
 GUI Screenshots
 
 ![GUI main window](docs/screenshots/gui-main.png)
-![Analysis results](docs/screenshots/gui-results.png)
+![Analysis results](docs/screenshots/gui-results.png)<img width="1244" height="930" alt="Screenshot 2026-06-05 095700" src="https://github.com/user-attachments/assets/f04ec8c1-de71-40b3-9479-8e89db310a4b" />
+
 
 If your dependencies are not on disk, use Maven to package or run the application directly with the exec plugin.
 
