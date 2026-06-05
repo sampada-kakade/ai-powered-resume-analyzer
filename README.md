@@ -127,7 +127,7 @@ Database
 - Make sure `db.properties` contains the correct connection settings.
 - The application writes results to the `analysis_results` table automatically.
 
-Notes
+##Notes
 - Keywords are loaded from `src/main/resources/keywords.txt`.
 - Logging is enabled via `java.util.logging` for parsing, analysis, and database save events.
 - JUnit tests are included for keyword matching.
