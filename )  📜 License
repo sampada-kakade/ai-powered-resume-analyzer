@@ -1,0 +1,10 @@
+
+---
+
+### ✅ Next Step
+1. Save this as `README.md` in your project root.  
+2. Stage and commit it:
+```bash
+git add README.md
+git commit -m "Add README with features and run instructions"
+git push
