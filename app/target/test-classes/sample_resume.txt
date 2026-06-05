@@ -1,0 +1,9 @@
+Jane Doe
+Senior Software Engineer
+
+Experienced in Java, SQL, Python, and REST API design. Built microservices with Spring and Hibernate, deployed on AWS using Docker and Kubernetes.
+
+Highlights:
+- Led Agile teams in delivering CI/CD pipelines and unit testing coverage.
+- Applied machine learning models for data analysis and regression tasks.
+- Used Git for source control and collaborated on project management.

@@ -1,0 +1,8 @@
+com\resumeanalyzer\DatabaseHandler$AnalysisResult.class
+com\resumeanalyzer\FeedbackGenerator.class
+com\resumeanalyzer\ResumeParser.class
+com\resumeanalyzer\DatabaseHandler.class
+com\resumeanalyzer\KeywordMatcher$MatchResult.class
+com\resumeanalyzer\KeywordMatcher.class
+com\resumeanalyzer\NLPAnalyzer$Result.class
+com\resumeanalyzer\NLPAnalyzer.class

@@ -1,0 +1,12 @@
+com\resumeanalyzer\ResumeParser.class
+com\resumeanalyzer\KeywordMatcher$MatchResult.class
+com\resumeanalyzer\ResumeAnalyzerApp.class
+com\resumeanalyzer\ResumeAnalyzerApp$AnalysisSummary.class
+com\resumeanalyzer\NLPAnalyzer$Result.class
+com\resumeanalyzer\NLPAnalyzer.class
+com\resumeanalyzer\DatabaseHandler$AnalysisResult.class
+com\resumeanalyzer\Main.class
+com\resumeanalyzer\FeedbackGenerator.class
+com\resumeanalyzer\DatabaseHandler.class
+com\resumeanalyzer\KeywordMatcher.class
+com\resumeanalyzer\ResumeAnalyzerApp$DialogWindow.class

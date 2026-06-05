@@ -1,0 +1,9 @@
+java
+spring
+maven
+sql
+mysql
+pdf
+nlp
+openNLP
+javafx

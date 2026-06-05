@@ -1,0 +1,28 @@
+Java
+SQL
+Python
+Machine Learning
+Leadership
+Communication
+Problem Solving
+Teamwork
+Spring
+Hibernate
+REST
+AWS
+Docker
+Kubernetes
+Data Analysis
+Statistics
+Regression
+TensorFlow
+Pandas
+Git
+AWS
+Docker
+Kubernetes
+Microservices
+CI/CD
+Unit Testing
+Agile
+Project Management
